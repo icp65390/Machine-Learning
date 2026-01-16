@@ -1,4 +1,4 @@
-# MachineLearning
+# Machine Learning
 A collection of various algorithms under ML coded in Python.
 
 ## Python Libraries:
